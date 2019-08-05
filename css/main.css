@@ -186,3 +186,36 @@ html {
     padding-left: 60px;
     padding-right: 60px;
 }
+
+
+.img-ilpoint{
+    width: 100% !important;
+    height: auto;
+}
+
+.hr-il{
+    border: 3px solid black;
+    margin-top: -40px;
+    width: 10%
+}
+
+.img-il{
+    padding: 0;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+.p-briefing-ilpoint{
+    font-size: 1.5rem;
+}
+
+.img-ilpoint-2{
+    width: 100% !important;
+    height: 50rem;
+}
+
+.margin-proyectos{
+    margin-top: 5rem;
+}

@@ -286,4 +286,14 @@ h3{
         height: 35rem;
         width: 100% !important;
     }
+    .parrafo-section{
+        display: none;
+    }
+    .parrafo-about {
+        font-size: 1.4rem;
+        text-align: center;
+    }
+    .btn-more {
+        margin-bottom: 20px;
+    }
 }

@@ -292,12 +292,12 @@ h3{
     }
     .parrafo-section{
         display: hidden;  
-        margin-left: -40px !important;  
+        margin-left: -60px !important;  
     }
 
     .btn-more {
         margin-bottom: 20px;
         display: block;
-        margin-left: 130px !important;
+        margin-left: 140px !important;
     }
 }

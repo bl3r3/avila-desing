@@ -290,7 +290,14 @@ h3{
         font-size: 1.4rem;
         text-align: center;
     }
+    .parrafo-section{
+        display: hidden;  
+        margin-left: -40px !important;  
+    }
+
     .btn-more {
         margin-bottom: 20px;
+        display: block;
+        margin-left: 130px !important;
     }
 }

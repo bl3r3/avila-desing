@@ -191,7 +191,7 @@ html {
 }
 
 .sobre-avila-p{
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     text-align: center;
     padding-left: 60px;
     padding-right: 60px;
@@ -253,6 +253,9 @@ h3{
     .imagenes-portafolio{
         width: 50%;
         height: 20rem;
+    }
+    .sobre-avila-p{
+        font-size: 1.2rem;
     }
 
 }
@@ -316,5 +319,9 @@ h3{
         line-height: inherit;
         white-space: nowrap;
         width: 20%;
+    }
+
+    .sobre-avila-p{
+        font-size: 1rem;
     }
 }

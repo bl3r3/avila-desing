@@ -238,6 +238,11 @@ h3{
     height: 65vh;
 }
 
+.rd-title-contact{
+    margin-top: 10% !important;
+    margin-bottom: 2%;
+}
+
 
 
 @media (max-width: 780px){
@@ -323,5 +328,9 @@ h3{
 
     .sobre-avila-p{
         font-size: 1rem;
+    }
+    .rd-title-contact{
+        margin-top: 20% !important;
+        margin-bottom: 2%;
     }
 }
